@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://littlemovingthings.io/sitemap.xml
